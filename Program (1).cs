@@ -27,6 +27,13 @@ namespace ConsoleApp1
             //Console.WriteLine(dateTime3.ToString("HH:mm:ss"));
             //Console.WriteLine(dateTime3.ToString("HH:mm"));
 
+            //Console.WriteLine("Текущая дата и время:");
+            //Console.WriteLine(dateTime4.ToString("dd.MM.yyyy HH:mm:ss"));
+            //Console.WriteLine(dateTime4.ToString("dd MMMM yyyy") + " " + dateTime4.ToString("HH:mm"));
+            //Console.WriteLine(dateTime4.ToString("dd MMMM yyyy") + " " + dateTime4.ToString("HH:mm:ss"));
+            //Console.WriteLine(dateTime4.ToString("ddd, dd MMM yyyy HH:mm:ss") + " GMT");
+            //Console.WriteLine(dateTime4.ToString("yyyy-MM-ddTHH:mm:ss"));
+
             // Задание 2
             //Console.WriteLine("Введите возраст:");
             //int age = Convert.ToInt32(Console.ReadLine());
