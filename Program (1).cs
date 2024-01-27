@@ -27,11 +27,6 @@ namespace ConsoleApp1
             //Console.WriteLine(dateTime3.ToString("HH:mm:ss"));
             //Console.WriteLine(dateTime3.ToString("HH:mm"));
 
-            //Console.WriteLine("Введите возраст:");
-            //int age = Convert.ToInt32(Console.ReadLine());
-            //int birthYear = DateTime.Now.Year - age;
-            //Console.WriteLine("Ты родился в " + birthYear + " году");
-
             // Задание 2
             //Console.WriteLine("Введите возраст:");
             //int age = Convert.ToInt32(Console.ReadLine());
